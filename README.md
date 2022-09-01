@@ -16,3 +16,4 @@ This repository contains the following scripts:
 7) GAT_log2_fold_corrplot.R: Code used to make the Genomic association tester log2 fold corrplot, Supplementary Figure 5.
 8) chr_size_vs_DSB_coverage.R: Code used to produce the correlation plot of chromosome size vs the coverage of spermatid DSBs, Supplementary Figure 6.
 9) stackplot_of_DSB_repeat_content_vs_whole_genome.R: Code used to make Supplementary Figure 7, stackplot of the coverage of RepeatMasker classes in the spermatid DSBs vs genomic coverage.
+10) OD_scaling.pl: Perl script used to scale the Oxidative damage data.
