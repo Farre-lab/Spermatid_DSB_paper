@@ -3,6 +3,7 @@
 #Load the required libraries:
 library(tidyverse)
 library(dplyr)
+library(ggplot2)
 
 #Set the working directory:
 setwd("C:/User/location/of/input/files")

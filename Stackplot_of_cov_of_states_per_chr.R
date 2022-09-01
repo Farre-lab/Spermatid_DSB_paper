@@ -1,7 +1,7 @@
 #R code to describe how the stackplot of the coverage of states per chromosome was generated.
 
 #Load the required libraries:
-library(ggplot)
+library(ggplot2)
 
 #Set the working directory:
 setwd("C:/Users/path/to/input/files")
