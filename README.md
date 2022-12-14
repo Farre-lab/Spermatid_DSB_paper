@@ -4,6 +4,9 @@ This repository contains the computational scripts (R code) used in the manuscri
 
 Used to produce Figures 1 & 2 and the supplementary Figures.
 
+code available on Zenodo:
+[![DOI](https://zenodo.org/badge/531082884.svg)](https://zenodo.org/badge/latestdoi/531082884)
+
 One script has been included for each separate R plot generated. R scripts requiring more computational power such as RegioneR can be run on a high performance computer (cluster)
 
 This repository contains the following scripts:
